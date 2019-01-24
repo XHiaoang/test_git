@@ -8,6 +8,7 @@ public class pojo {
         System.out.println("sdadasdsadasdasds");
         System.out.println("sdadasdsadasdasds");
         System.out.println("sdadasdsadasdasds");
+        System.out.println("shidewogaile");
     }
 
     public void init(){

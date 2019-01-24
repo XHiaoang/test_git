@@ -9,4 +9,8 @@ public class pojo {
         System.out.println("sdadasdsadasdasds");
         System.out.println("sdadasdsadasdasds");
     }
+
+    public void init(){
+        System.out.println("dsadsadas");
+    }
 }
